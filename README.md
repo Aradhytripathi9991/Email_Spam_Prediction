@@ -1,10 +1,10 @@
 # Email_Spam_Prediction
 
-# Email Spam Prediction
+
 
 A simple **Streamlit** application that predicts whether an email is **spam** or **not spam** using a pre-trained machine learning model.
 
-## Streamlit Preview - [Streamlit](https://email-spam-prediction.streamlit.app/)
+## Streamlit Preview - [Streamlit](https://emailspamprediction01.streamlit.app/)
 
 ## Overview
 
